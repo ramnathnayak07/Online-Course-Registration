@@ -13,20 +13,20 @@ These are detailed information about the project:
 This project is based on Web Development And its Applications. The main objective of this project is to learn the implementation of 
  HTML | CSS | PHP | SQL
 
-<b>Requirements:<br><br>
+<b>Requirements:<b>
 
-Download and Install any local web server such as XAMPP/WAMP.
-Download the source code zip file. 
+- Download and Install any local web server such as XAMPP/WAMP.
+- Download the source code zip file. 
 
-<b>Installation/Setup:<br><br>
+<b>Installation/Setup:</b>
 
-Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
-Extract the downloaded source code zip file.
-If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
-Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
-Create a new database naming onlinecourse.
-Import the provided SQL file. The file is known as onlinecourse.sql located inside the db folder.
-Browse the Online Course Registration System in a browser. i.e. http://localhost/Online%20Course%20Registration/ and http://localhost/Online%20Course%20Registration/admin for the admin side.
+- Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
+- Extract the downloaded source code zip file.
+- If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+- Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+- Create a new database naming onlinecourse.
+- Import the provided SQL file. The file is known as onlinecourse.sql located inside the db folder.
+- Browse the Online Course Registration System in a browser. i.e. http://localhost/Online%20Course%20Registration/ and http://localhost/Online%20Course%20Registration/admin for the admin side.
 
 <b>SnapShots:<br><br>
 Student Page:
